@@ -2,6 +2,8 @@
 
 This project aims to `vagrant up` a multi-node/multi-datacenter Apache Cassandra ready-to-use production-grade cluster within Amazon's EC2 cloud. Configure and `vagrant up --provider=aws` to get going.
 
+To use locally use `vagrant up --provider=VirtualBox`
+
 ## Configuration
 
 ### AWS side
